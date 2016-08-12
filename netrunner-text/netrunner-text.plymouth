@@ -1,0 +1,11 @@
+[Plymouth Theme]
+Name=Netrunner Core Text
+Description=Text mode theme based on netrunner-logo theme
+ModuleName=text
+
+[text]
+title=Netrunner Core
+black=0x212121
+white=0xffffff
+brown=0x03A9F4
+blue=0x0277BD
