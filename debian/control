@@ -1,17 +1,17 @@
-Source: artwork-plymouth-theme-netrunner-core
+Source: artwork-plymouth-theme-netrunner-neo
 Section: x11
 Priority: optional
 Maintainer: Leszek Lesner <leszek@zevenos.com>
 Standards-Version: 3.7.3
 Build-Depends: debhelper (>= 6), dh-make
 
-Package: artwork-plymouth-theme-netrunner-core
+Package: artwork-plymouth-theme-netrunner-neo
 Architecture: all
 Depends: ${misc:Depends}, plymouth, plymouth-themes
 Provides: plymouth-theme
-Description: graphical boot animation and logger - netrunner-core-logo theme
+Description: graphical boot animation and logger - netrunner-neo-logo theme
  Plymouth is an application that runs very early in the boot process
  (even before the root filesystem is mounted!) that provides a graphical
  boot animation while the boot process happens in the background.
  .
- This package contains the default netrunner-core-logo theme.
+ This package contains the default netrunner-neo-logo theme.
